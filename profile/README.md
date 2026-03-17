@@ -1,7 +1,7 @@
 # Ops Talks 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ops-Talks/opstalks-landpage/main/public/white-logo.png" alt="Ops Talks Logo" width="300px">
+  <img src="./logo.png" alt="Ops Talks Logo" width="300px">
 </p>
 
 <p align="center">
